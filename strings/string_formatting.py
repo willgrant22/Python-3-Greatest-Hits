@@ -8,6 +8,7 @@ import string
 
 txt = "Hello, And Welcome To My World!"
 myTuple = ("John", "Peter", "Vicky")
+nl = '\n'
 
 a = txt.casefold()
 
@@ -30,4 +31,4 @@ i = txt.title() #Make the first letter in each word upper case:
 j = txt.count("apple")
 
 
-print(a)
+print(a, nl, b, nl, c, nl, d, nl, e, nl, f, nl, g, nl, h, nl, i, nl, j)
