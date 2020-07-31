@@ -1,2 +1,2 @@
 # useful_python
- My favorite python scripts
+ Python scripts I created for various purposes
