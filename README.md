@@ -1,12 +1,16 @@
 # <img title="" src="img/anap_logo.png" alt="" align="inline" data-align="inline" width="58"> <sup>Create, Learn, Code!</sup>
 
-<img title="" src="img/anap2.png" alt="" align="inline" data-align="inline" width="468">
+<img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
 > ***Scripts for utilizing various libraries***
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity)
 ---
 
-## *Table of contents*
+<details>
+<summary>Table of Contents</summary>
+
+## Table of Contents
 
 - [Barcode](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 - [C With Python](https://github.com/willgrant22/Functional_Python/tree/master/C%20With%20Python)
@@ -28,5 +32,5 @@
 - [Vars](https://github.com/willgrant22/Functional_Python/tree/master/Vars)
 - [Walrus](https://github.com/willgrant22/Functional_Python/tree/master/Walrus)
 - [Web](https://github.com/willgrant22/Functional_Python/tree/master/Web)
-
-## 
+  
+  </details>
