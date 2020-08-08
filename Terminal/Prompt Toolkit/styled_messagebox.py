@@ -1,0 +1,33 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author: Will Grant
+# =============================================================================
+from prompt_toolkit.formatted_text import HTML
+from prompt_toolkit.shortcuts import message_dialog
+from prompt_toolkit.styles import Style
+
+# Custom color scheme.
+example_style = Style.from_dict(
+    {
+        "dialog": "bg:#88ff88",
+        "dialog frame-label": "bg:#ffffff #000000",
+        "dialog.body": "bg:#000000 #00ff00",
+        "dialog shadow": "bg:#00aa00",
+    }
+)
+
+
+def main():
+    message_dialog(
+        title=HTML(
+            '<style bg="blue" fg="white">Styled</style> '
+            '<style fg="ansired">dialog</style> window'
+        ),
+        text="Do you want to continue?\nPress ENTER to quit.",
+        style=example_style,
+    ).run()
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,10 @@
+{
+    "questions": [
+        {
+            "type": "confirm",
+            "name": "toBeDelivered",
+            "message": "Is this for delivery?",
+            "default": "False"
+        }
+    ]
+}

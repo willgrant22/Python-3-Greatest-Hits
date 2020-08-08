@@ -1,0 +1,5 @@
+g++ -shared -o main.so main.cpp -framework Python
+
+g++ main.so -o main
+
+./main
