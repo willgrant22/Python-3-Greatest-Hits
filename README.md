@@ -1,8 +1,12 @@
-# Functional Python
-
-<img title="" src="anap_logo.png" alt="" align="center" data-align="inline">
+# <sub><img title="" src="anap_logo.png" alt="" align="inline" data-align="inline" width="58"> </sub> <sup>Functional Python</sup>
 
 > ***Scripts utilizing various libraries***
+
+---
+
+<img title="" src="anap2.png" alt="" align="inline" data-align="inline" width="58">
+
+---
 
 ## *Table of contents*
 
