@@ -4,7 +4,8 @@
 
 > ***Scripts for utilizing various libraries***
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/willgrant22/Python-3-Greatest-Hits/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/willgrant22/Python-3-Greatest-Hits/blob/master/LICENSE) [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://github.com/willgrant22/Python-3-Greatest-Hits/graphs/traffic)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/willgrant22/Python-3-Greatest-Hits/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/willgrant22/Python-3-Greatest-Hits/blob/master/LICENSE) [![Package Control total downloads][![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)]()
+]
 
 ---
 
