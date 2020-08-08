@@ -1,10 +1,8 @@
-# <sub><img title="" src="anap_logo.png" alt="" align="inline" data-align="inline" width="58"> </sub> <sup>Functional Python</sup>
+# <sub><img title="" src="file:///Users/will/Documents/GitHub/Functional_Python/img/anap_logo.png" alt="" align="inline" data-align="inline" width="58"> </sub><sup>Create, Learn, Code!</sup>
 
-> ***Scripts utilizing various libraries***
+<img title="" src="file:///Users/will/Documents/GitHub/Functional_Python/img/anap2.png" alt="" align="inline" data-align="center" width="421">
 
----
-
-<img title="" src="anap2.png" alt="" align="inline" data-align="inline" width="58">
+> ***Scripts for utilizing various libraries***
 
 ---
 
