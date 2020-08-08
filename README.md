@@ -1,6 +1,6 @@
 # <img title="" src="img/anap_logo.png" alt="" align="inline" data-align="inline" width="58"> <sup>Create, Learn, Code!</sup>
 
-<img title="" src="img/anap2.png" alt="" align="inline" data-align="center" width="435">
+<img title="" src="img/anap2.png" alt="" align="inline" data-align="center" width="851">
 
 > ***Scripts for utilizing various libraries***
 
