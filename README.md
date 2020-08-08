@@ -1,6 +1,6 @@
 # Functional Python
 
-<img title="" src="anap_logo.png" alt="" align="right" data-align="inline"> <sup> Everyday Scripts</sup>
+<img title="" src="anap_logo.png" alt="" align="center" data-align="inline"> <sup> Everyday Scripts</sup>
 
 > ***Scripts utilizing various libraries***
 
