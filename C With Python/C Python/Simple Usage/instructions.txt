@@ -1,5 +1,0 @@
-gcc -shared -o main.so main.c -framework Python
-
-gcc main.so -o main.out or gcc main.so -o main
-
-./main.out or ./main
