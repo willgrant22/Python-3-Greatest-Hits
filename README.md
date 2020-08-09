@@ -1,4 +1,4 @@
-![](img/anap_logo.svg)
+![](img/anap_logo.png)
 
 > ***My collection of scripts for utilizing various libraries***
 
