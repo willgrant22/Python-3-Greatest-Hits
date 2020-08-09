@@ -4,7 +4,7 @@
 
 ![](img/anap2.png)
 
-> ***My collection of scripts for utilizing various libraries***
+> ***My collection of scripts for utilizing various libraries, more comming soon***
 
 ----
 
