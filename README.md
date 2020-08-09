@@ -2,14 +2,14 @@
 
 <img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
-> ***Scripts for utilizing various libraries***
+> ***A collection of scripts I wrote for utilizing various libraries***
 
 ----
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/willgrant22/Python-3-Greatest-Hits?color=683BB9)
 ![GitHub top language](https://img.shields.io/github/languages/top/willgrant22/Python-3-Greatest-Hits)
 ![GitHub repo size](https://img.shields.io/github/repo-size/willgrant22/Python-3-Greatest-Hits?color=E19124)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/willgrant22/Python-3-Greatest-Hits?color=1AC262)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/willgrant22/Python-3-Greatest-Hits?color=1AC262)
 ![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
