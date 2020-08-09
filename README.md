@@ -2,17 +2,24 @@
 
 <img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
-> ***Scripts for utilizing various libraries***
+> ***My collection of scripts for utilizing various libraries***
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)] 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/willgrant22/Python-3-Greatest-Hits)]
-[![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)]()
+----
 
----
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/willgrant22/Python-3-Greatest-Hits?color=683BB9)
+![GitHub top language](https://img.shields.io/github/languages/top/willgrant22/Python-3-Greatest-Hits)
+![GitHub last commit](https://img.shields.io/github/last-commit/willgrant22/Python-3-Greatest-Hits)
+![GitHub repo size](https://img.shields.io/github/repo-size/willgrant22/Python-3-Greatest-Hits?color=E19124)
+![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
+![](https://komarev.com/ghpvc/?username=willgrant22&color=ff69b4&label=Views)
+
+![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
+![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social)
 
 <details>
 <summary>Table of Contents</summary>
+
+----
 
 ## Table of Contents
 
