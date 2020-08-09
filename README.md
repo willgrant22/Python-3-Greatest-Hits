@@ -2,7 +2,7 @@
 
 <img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
-> ***A collection of scripts I wrote for utilizing various libraries***
+> ***My collection of scripts for utilizing various libraries***
 
 ----
 
