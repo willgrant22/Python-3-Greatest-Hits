@@ -15,10 +15,9 @@
 ![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
 ![](https://komarev.com/ghpvc/?username=willgrant22&color=ff69b4&label=Views)
 
+<img title="" src="img/python-5.png" alt="" width="63" data-align="right">
 ![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social)
-
-<img title="" src="img/python-5.png" alt="" width="63" data-align="right">
 
 <details>
 <summary>Table of Contents</summary>
