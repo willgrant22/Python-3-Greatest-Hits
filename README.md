@@ -1,4 +1,4 @@
-![](/Users/will/Documents/GitHub/Functional_Python/img/anap_logo.svg)
+![](img/anap_logo.svg)
 
 > ***My collection of scripts for utilizing various libraries***
 
