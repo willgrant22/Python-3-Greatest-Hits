@@ -1,4 +1,6 @@
-![](/Users/will/Documents/GitHub/Functional_Python/img/anap_logo.svg)
+# <img title="" src="img/anap_logo.svg" alt="" align="inline" data-align="inline" width="58"> <sup>Create, Learn, Code!</sup>
+
+<img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
 > ***My collection of scripts for utilizing various libraries***
 
