@@ -4,7 +4,7 @@
 
 ![](img/anap2.png)
 
-> ***My collection of scripts for utilizing various libraries, more comming soon***
+> *My collection of scripts for utilizing various libraries, more comming soon*
 
 ----
 
@@ -16,14 +16,14 @@
 ![](https://komarev.com/ghpvc/?username=willgrant22&color=ff69b4&label=Views)
 
 ![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
-![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social) <img title="" src="img/python-5.png" alt="" width="50" data-align="inline">
+![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social) 
 
 <details>
 <summary>Table of Contents</summary>
 
 ----
 
-## Table of Contents
+## <img title="" src="img/python-5.png" alt="" width="50" data-align="inline"> <sup>Table of Contents</sup>
 
 - [Barcode](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
