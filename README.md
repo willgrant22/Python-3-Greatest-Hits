@@ -4,7 +4,7 @@
 
 > ***Scripts for utilizing various libraries***
 
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/willgrant22/Python-3-Greatest-Hits)
 ![GitHub repo size](https://img.shields.io/github/repo-size/willgrant22/Python-3-Greatest-Hits?color=E19124)
 ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/willgrant22/Python-3-Greatest-Hits)
