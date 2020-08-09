@@ -10,7 +10,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/willgrant22/Python-3-Greatest-Hits?color=1AC262)
 ![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
 
-
+![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social)
 
 ---
