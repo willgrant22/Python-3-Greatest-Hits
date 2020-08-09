@@ -1,4 +1,4 @@
-<img title="" src="img/anap_logo.png" alt="" width="649">
+<img title="" src="img/anap_logo.png" alt="" width="717">
 
 ----
 
