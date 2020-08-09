@@ -18,7 +18,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social)
 
-<img title="" src="img/python-5.png" alt="" width="98" data-align="right">
+<img title="" src="img/python-5.png" alt="" width="98" data-align="inline">
 
 <details>
 <summary>Table of Contents</summary>
