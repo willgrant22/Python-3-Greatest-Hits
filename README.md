@@ -1,4 +1,4 @@
-![](img/anap_logo.png)
+<img title="" src="img/anap_logo.png" alt="" width="616">
 
 ----
 
