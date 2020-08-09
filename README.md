@@ -2,6 +2,8 @@
 
 <img title="" src="img/anap2.png" alt="" align="inline" data-align="left" width="468">
 
+----
+
 > ***Scripts for utilizing various libraries***
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/willgrant22/Python-3-Greatest-Hits?color=683BB9)
@@ -13,10 +15,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/willgrant22?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/willgrant22/Python-3-Greatest-Hits?style=social)
 
----
-
 <details>
 <summary>Table of Contents</summary>
+
+----
 
 ## Table of Contents
 
