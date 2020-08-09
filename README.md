@@ -5,7 +5,7 @@
 > ***Scripts for utilizing various libraries***
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/willgrant22/Python-3-Greatest-Hits)
 ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/willgrant22/Python-3-Greatest-Hits)
 ![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
