@@ -4,6 +4,7 @@
 # Author :  Will Grant
 # =============================================================================
 
+# Calls db_class.py
 from db_class import createTBL, insertData, queryData
 s = 'proton'
 u = 'will.grant'
