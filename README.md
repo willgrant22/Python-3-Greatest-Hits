@@ -9,8 +9,7 @@
 
 ----
 
-![](img/anap2.png)
->>>>>>> b5c5e155d69c5cafd481e398216cd7c422ae83e7
+
 
 > *Scripts I created for utilizing various libraries, more comming soon*
 
