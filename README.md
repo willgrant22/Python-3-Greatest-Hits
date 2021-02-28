@@ -26,7 +26,7 @@
 
 # <img title="" src="img/python-5.png" alt="" width="50" data-align="inline"> <sup> Table of Contents</sup>
 
-- [***Barcode**](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
+- [**Barcode**](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
 - [**C With Python**](https://github.com/willgrant22/Functional_Python/tree/master/C%20With%20Python)
   - [*C Python*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/C%20Python)
