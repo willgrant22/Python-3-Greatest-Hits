@@ -98,7 +98,7 @@
   - [Random](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Vars/Random)
   - [Strings](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Vars/Strings)
   - [Walrus](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Vars/Walrus)
-  
+---
 - [Web](https://github.com/willgrant22/Functional_Python/tree/master/Web)
   - [AWS](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/AWS)
   - [Flask](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/Flask)
