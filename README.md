@@ -1,8 +1,8 @@
-<img title="" src="img/anap_logo.png" alt="" width="743" data-align="inline">
+<img title="" src=".img/anap_logo.png" alt="" width="743" data-align="inline">
 
 ----
 
-![](img/anap2.png)
+![](.img/anap2.png)
 
 > *Scripts I created for utilizing various libraries, more comming soon*
 
@@ -25,7 +25,7 @@
 
 ----
 
-# <img title="" src="Repository Images/python-5.png" alt="" width="50" data-align="inline"> <sup>Table of Contents</sup>
+# <img title="" src=".img/python-5.png" alt="" width="50" data-align="inline"> <sup>Table of Contents</sup>
 
 - [Barcode](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
