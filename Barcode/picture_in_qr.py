@@ -7,6 +7,7 @@
 import qrcode
 from PIL import Image
 
+#define picture
 face = Image.open('pic.jpg').crop((175, 90, 235, 150))
 
 qr_big = qrcode.QRCode(

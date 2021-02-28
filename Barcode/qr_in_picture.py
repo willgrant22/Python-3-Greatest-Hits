@@ -7,6 +7,7 @@
 import qrcode
 from PIL import Image
 
+# Define picture
 img_bg = Image.open('pic.jpg')
 
 qr = qrcode.QRCode(box_size=5)
