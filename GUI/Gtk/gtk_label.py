@@ -24,7 +24,6 @@ I told ya, I was trouble
 you know that I'm no good"""
 
 class MyWindow(Gtk.Window):
-
     def __init__(self):
         super(MyWindow, self).__init__()
 

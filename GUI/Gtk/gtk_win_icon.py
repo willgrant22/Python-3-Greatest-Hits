@@ -24,7 +24,6 @@ class MyWindow(Gtk.Window):
         
         self.connect("destroy", Gtk.main_quit)
 
-
 win = MyWindow()
 win.show()
 Gtk.main()

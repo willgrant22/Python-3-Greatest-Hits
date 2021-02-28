@@ -18,5 +18,4 @@ try:
     assert 'My html page!' == driver.title
 
 finally:
-
     driver.quit()

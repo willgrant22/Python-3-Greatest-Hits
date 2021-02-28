@@ -12,7 +12,6 @@ import sys
 
 
 class Window(Gtk.ApplicationWindow):
-
     def __init__(self, app):
         super(Window, self).__init__(title="Application", application=app)
 

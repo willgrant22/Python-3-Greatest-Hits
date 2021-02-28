@@ -12,7 +12,6 @@ class MyWindow(Gtk.Window):
 
     def __init__(self):
         super(MyWindow, self).__init__()
-
         self.init_ui()
 
     def init_ui(self):    
