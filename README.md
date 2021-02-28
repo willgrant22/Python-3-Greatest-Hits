@@ -29,10 +29,10 @@
 - [**Barcode**](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
 - [**C With Python**](https://github.com/willgrant22/Functional_Python/tree/master/C%20With%20Python)
-  - [C Python](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/C%20Python)
-  - [C++ Python](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/C%2B%2B%20Python)
-  - [Cython](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/Cython)
-  - [Shared Lib](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/Shared%20Lib)
+  - [*C Python*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/C%20Python)
+  - [*C++ Python*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/C%2B%2B%20Python)
+  - [*Cython*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/Cython)
+  - [*Shared Lib*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/C%20With%20Python/Shared%20Lib)
   
 - [**Data Structures**](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Data%20Structures)
   - [Class Decorators](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Data%20Structures/Decorators)
@@ -40,7 +40,7 @@
 - [**Database**](https://github.com/willgrant22/Functional_Python/tree/master/Database)
   - [MySQL](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Database/MySQL)
   - [SQLite](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Database/Sqlite)
-- [Emoji](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Emoji)
+- [**Emoji**](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Emoji)
   
 - [**Encryption**](https://github.com/willgrant22/Functional_Python/tree/master/Encryption)
 
