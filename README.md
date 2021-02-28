@@ -30,6 +30,8 @@
 - [Barcode](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
 - [C With Python](https://github.com/willgrant22/Functional_Python/tree/master/C%20With%20Python)
+  
+- [Data Structures](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Data%20Structures)
 
 - [Database](https://github.com/willgrant22/Functional_Python/tree/master/Database)
 
