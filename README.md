@@ -46,18 +46,14 @@
 - [GUI](https://github.com/willgrant22/Functional_Python/tree/master/GUI)
 
 - [Image Manipulation](https://github.com/willgrant22/Functional_Python/tree/master/Image%20Manipulation)
-
-- [Matplotlib](https://github.com/willgrant22/Functional_Python/tree/master/Matplotlib)
-
-- [Numpy](https://github.com/willgrant22/Functional_Python/tree/master/Numpy)
-
-- [Pandas](https://github.com/willgrant22/Functional_Python/tree/master/Pandas)
+  
+- [Networking](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Networking)
 
 - [PyArduino](https://github.com/willgrant22/Functional_Python/tree/master/PyArduino)
+  
+- [Regular Expressions](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Regular%20Expressions)
 
 - [Socket Programming](https://github.com/willgrant22/Functional_Python/tree/master/Socket%20Programming)
-
-- [Strings](https://github.com/willgrant22/Functional_Python/tree/master/Strings)
 
 - [System](https://github.com/willgrant22/Functional_Python/tree/master/System)
 
@@ -68,8 +64,6 @@
 - [Twilio](https://github.com/willgrant22/Functional_Python/tree/master/Twilio)
 
 - [Vars](https://github.com/willgrant22/Functional_Python/tree/master/Vars)
-
-- [Walrus](https://github.com/willgrant22/Functional_Python/tree/master/Walrus)
 
 - [Web](https://github.com/willgrant22/Functional_Python/tree/master/Web)
   
