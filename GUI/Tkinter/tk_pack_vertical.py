@@ -6,6 +6,7 @@
 
 import tkinter
 
+# Root layout
 root = tkinter.Tk()
 root.title('Pack layout')
 

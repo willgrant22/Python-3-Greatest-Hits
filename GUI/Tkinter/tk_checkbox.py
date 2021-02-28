@@ -7,7 +7,6 @@
 import tkinter
 
 def toggleTitle():
-
     isTitleShown = cbvar.get()
 
     if isTitleShown:

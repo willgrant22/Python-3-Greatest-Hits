@@ -8,6 +8,7 @@ import tkinter
 from PIL import Image, ImageTk
 
 root = tkinter.Tk()
+# Background color
 root.configure(background='gray')
 root.title("Rotunda")
 

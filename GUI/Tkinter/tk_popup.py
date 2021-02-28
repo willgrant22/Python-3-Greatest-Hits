@@ -8,8 +8,7 @@ import tkinter
 import tkinter.messagebox
 import datetime
 
-def showDay():
-    
+def showDay(): 
     now = datetime.datetime.now()
     msg = 'Today is: {}'.format(now.strftime('%A'))
     tkinter.messagebox.showinfo("Information", msg)

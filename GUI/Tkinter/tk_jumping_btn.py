@@ -8,7 +8,6 @@ import tkinter
 import random
 
 def onEnterButton(e):
-
     w = root.winfo_width()
     h = root.winfo_height()
 

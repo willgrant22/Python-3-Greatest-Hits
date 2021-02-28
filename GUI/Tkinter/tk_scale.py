@@ -6,8 +6,7 @@
 
 import tkinter
 
-def onScale(val):
-    
+def onScale(val):   
     v = int(val)
     lvar.set(v)
 

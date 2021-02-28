@@ -8,7 +8,7 @@ try:
     import Tkinter as tk
     import tkFont
     import ttk
-except ImportError:  # Python 3
+except ImportError:
     import tkinter as tk
     import tkinter.font as tkFont
     import tkinter.ttk as ttk

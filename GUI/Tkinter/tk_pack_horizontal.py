@@ -18,5 +18,6 @@ lbl2.pack(side=tkinter.LEFT)
 lbl3 = tkinter.Label(root, width=20, height=5, bg='SteelBlue4')
 lbl3.pack(side=tkinter.LEFT, padx=10)
 
+# Window size
 root.geometry('+300+250')
 root.mainloop()

@@ -9,7 +9,6 @@ import tkinter.messagebox
 import datetime
 
 def showDate():
-
     now = datetime.datetime.now()
     msg = 'Today is: {}'.format(now)
     tkinter.messagebox.showinfo("Information", msg)

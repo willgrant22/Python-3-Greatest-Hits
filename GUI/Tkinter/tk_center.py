@@ -15,6 +15,7 @@ win_height = 250
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 
+# Math to center window based on screen size
 start_x = int((screen_width/2) - (win_width/2))
 start_y = int((screen_height/2) - (win_height/2))
 

@@ -11,7 +11,8 @@ root.title('Grid')
 
 root.columnconfigure(0, pad=5)        
 root.columnconfigure(1, pad=5) 
-root.columnconfigure(2, pad=5) 
+root.columnconfigure(2, pad=5)
+# Row geometry
 root.rowconfigure(0, pad=5)
 
 btn1 = tkinter.Button(root, text='Button 1')

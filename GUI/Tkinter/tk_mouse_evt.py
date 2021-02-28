@@ -7,7 +7,6 @@
 import tkinter
 
 def onMotion(e):
-
     msg = 'x: {} y: {}'.format(e.x, e.y)
     lvar.set(msg)
 

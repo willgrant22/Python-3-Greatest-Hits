@@ -7,7 +7,6 @@
 import tkinter
 
 def onKeyPress(e):
-
     msg = 'Key {}, (code {}) was pressed'.format(e.keysym, e.keycode)
     lvar.set(msg)
 

@@ -9,6 +9,7 @@ import tkinter
 root = tkinter.Tk()
 root.title('Pack layout')
 
+# Layout type
 frame1 = tkinter.LabelFrame(root, text='Vertical layout', 
     relief=tkinter.GROOVE)
 
