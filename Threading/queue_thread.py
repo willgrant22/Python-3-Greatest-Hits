@@ -59,7 +59,6 @@ while not workQueue.empty():
 # Notify threads it's time to exit
 exitFlag = 1
 
-# Wait for all threads to complete
 for t in threads:
    t.join()
 print ("Exiting Main Thread")
