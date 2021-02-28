@@ -30,25 +30,47 @@
 - [Barcode](https://github.com/willgrant22/Functional_Python/tree/master/Barcode)
 
 - [C With Python](https://github.com/willgrant22/Functional_Python/tree/master/C%20With%20Python)
+  - [C Python]()
+  - [C++ Python]()
+  - [Cython]()
+  - [Shared Lib]()
   
 - [Data Structures](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Data%20Structures)
+  - [Class Decorators]()
 
 - [Database](https://github.com/willgrant22/Functional_Python/tree/master/Database)
+  - [MySQL]()
+  - [SQLite]()
   
 - [Emoji](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Emoji)
 
 - [Encryption](https://github.com/willgrant22/Functional_Python/tree/master/Encryption)
 
-- [File Operations](https://github.com/willgrant22/Functional_Python/tree/master/File%20Operations)
+- [File Operations](https://github.com/willgrant22/Functional_Python/tree/master/File%20Operations)  
+  - [CSV]()
+  - [Dev]()
+  - [Docx]()
+  - [Excel]()
+  - [IO]()
+  - [Json]()
+  - [Yaml]()
+  - [Zip]()
   
 - [Functions](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Functions)
 
 - [GUI](https://github.com/willgrant22/Functional_Python/tree/master/GUI)
+  - [GTK]()
+  - [PyCario]()
+  - [TKinter]()
+  - [WXPython]()
 
 - [Image Manipulation](https://github.com/willgrant22/Functional_Python/tree/master/Image%20Manipulation)
-  + [OpenCV]()
+  - [OpenCV]()
+  - [PIL]()
+  - [Wand]()
   
 - [Networking](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Networking)
+  - []()
 
 - [PyArduino](https://github.com/willgrant22/Functional_Python/tree/master/PyArduino)
   
