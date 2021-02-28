@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Get and sort data descending
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

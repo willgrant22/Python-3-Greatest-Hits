@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Get from table
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(
