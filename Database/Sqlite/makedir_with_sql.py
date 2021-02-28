@@ -7,6 +7,7 @@
 import sqlite3
 import os, sys
 from pathlib import Path
+
 home = str(Path.home())
 print(home)
 os.makedirs(home+'/new/db/', 0o777)

@@ -33,7 +33,6 @@ class insertDat:
         VALUES (1, 'purpose', 'name', 'word')");
 
 createTbl.createSysTbl()
-
 createTbl.conn.commit()
 createTbl.conn.close()
 
