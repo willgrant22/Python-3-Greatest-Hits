@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
 
 import wx
 
-
 class Example(wx.Frame):
-
     def __init__(self, parent, title):
         super(Example, self).__init__(parent, title=title,
             size=(355, 500))

@@ -1,20 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
-"""
-ZetCode wxPython tutorial
-
-This is a wx.MoveEvent event demostration.
-
-author: Jan Bodnar
-website: www.zetcode.com
-last modified: April 2018
-"""
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
 
 import wx
 
 class Example(wx.Frame):
-
     def __init__(self, *args, **kw):
         super(Example, self).__init__(*args, **kw)
 

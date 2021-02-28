@@ -1,6 +1,12 @@
-import wx 
-class Mywin(wx.Frame): 
-            
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
+
+import wx
+
+class Mywin(wx.Frame):            
    def __init__(self, parent, title): 
       super(Mywin, self).__init__(parent, title = title,size = (600,400))
         

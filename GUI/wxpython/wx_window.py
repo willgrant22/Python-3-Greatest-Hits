@@ -1,6 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
+
 import wx
 
-# Creates an App object which runs a loop to display the
 # GUI on the screen
 myapp = wx.App()
 

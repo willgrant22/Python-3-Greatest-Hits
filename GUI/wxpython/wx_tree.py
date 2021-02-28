@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
 
 import wx
 
 class TreeFrame(wx.Frame):
-
     def __init__(self):
 
         wx.Frame.__init__(self, None, title='wx.TreeCtrl')

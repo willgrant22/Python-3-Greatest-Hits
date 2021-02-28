@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # =============================================================================
-# Created By  : Will Grant
-# Created Date: 03/09/2020
-# Description : Get key values for key event
+# Author :  Will Grant
 # =============================================================================
-# Imports
-# =============================================================================
+
 import cv2
 
 # Load image

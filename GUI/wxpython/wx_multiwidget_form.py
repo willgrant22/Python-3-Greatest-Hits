@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
 
 import wx
+
 class ExamplePanel(wx.Panel):
     def __init__(self, parent):
         wx.Panel.__init__(self, parent)

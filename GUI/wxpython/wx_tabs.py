@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Author :  Will Grant
+# =============================================================================
+
 import wx
   
 class MyDialog(wx.Dialog): 
@@ -6,8 +12,7 @@ class MyDialog(wx.Dialog):
       panel = wx.Panel(self) 
       self.btn = wx.Button(panel, wx.ID_OK, label = "ok", size = (50,20), pos = (75,50)) 
      
-class Mywin(wx.Frame): 
-            
+class Mywin(wx.Frame):            
    def __init__(self, parent, title): 
       super(Mywin, self).__init__(parent, title = title, size = (600,500))  
       self.InitUI() 
