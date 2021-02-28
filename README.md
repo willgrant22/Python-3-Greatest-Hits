@@ -70,7 +70,7 @@
   - [*Proxies*](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Networking/Proxies)
 
 - [**PyArduino**](https://github.com/willgrant22/Functional_Python/tree/master/PyArduino)
-- [Regular Expressions](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Regular%20Expressions)
+- [**Regular Expressions**](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Regular%20Expressions)
 
 - [**Socket Programming**](https://github.com/willgrant22/Functional_Python/tree/master/Socket%20Programming)
 
