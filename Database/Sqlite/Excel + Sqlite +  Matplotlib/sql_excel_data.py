@@ -56,7 +56,6 @@ def fromExcel():
 
 	conn.close()
 
-
 def main():
 	createTBL()
 	fromExcel()

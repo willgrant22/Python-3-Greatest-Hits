@@ -11,6 +11,7 @@ u = 'will.grant.22'
 p = 'passtest'
 
 ct = Database(s, u, p)
+# Other functions that can be called
 #ct.createTBL()
 #ct.insertData()
 ct.queryData()

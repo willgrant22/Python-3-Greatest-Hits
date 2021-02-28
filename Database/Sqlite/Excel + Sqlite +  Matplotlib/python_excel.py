@@ -7,6 +7,7 @@
 from openpyxl import Workbook
 from openpyxl.utils import get_column_letter
 
+# Call workbook variable
 wb = Workbook()
 
 dest_filename = 'empty_book.xlsx'

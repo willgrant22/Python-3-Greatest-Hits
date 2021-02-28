@@ -41,7 +41,6 @@ yCol = []
 		c.border = Border(top=thin, right=thin, bottom=thin, left=thin)
 		c.alignment = Alignment(horizontal="center", vertical="center")
 	'''
-
 row_count = len(sheetOne['A'])
 sheetOne.insert_rows(row_count+1)
 print(row_count)

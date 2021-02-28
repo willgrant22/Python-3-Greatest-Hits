@@ -6,6 +6,7 @@
 
 import sqlite3
 
+# Very simple table example
 conn = sqlite3.connect('excel.db')
 print ("Opened database successfully");
 def createtbl():

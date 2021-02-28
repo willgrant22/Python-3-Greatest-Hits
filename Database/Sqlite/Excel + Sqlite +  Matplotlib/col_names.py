@@ -6,6 +6,7 @@
 
 import sqlite3
 
+# Code to get column names
 db = 'test.db'
 table_name = 'TEST'
 conn = sqlite3.connect(f'{db}')

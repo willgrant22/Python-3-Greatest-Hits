@@ -42,7 +42,6 @@ def uTotalSales():
 	ax1.axis('equal') 
 	title = ax1.set_title("Total sales for July (In dollars)") 
 	plt.setp(title,size=16, weight="bold")
-	
 	plt.savefig('foo.svg', bbox_inches='tight')
 	plt.show()
 

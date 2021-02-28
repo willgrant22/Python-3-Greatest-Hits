@@ -51,7 +51,6 @@ def fromE():
 
 	conn.close()
 
-
 def main():
 	createTBL()
 	fromE()
