@@ -70,7 +70,7 @@
   - [Wand]()
   
 - [Networking](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Networking)
-  - []()
+  - [Proxies]()
 
 - [PyArduino](https://github.com/willgrant22/Functional_Python/tree/master/PyArduino)
   
@@ -81,13 +81,32 @@
 - [System](https://github.com/willgrant22/Functional_Python/tree/master/System)
 
 - [Terminal](https://github.com/willgrant22/Functional_Python/tree/master/Terminal)
+  - [Click]()
+  - [Paramiko]()
+  - [Pretty Table]()
+  - [Prompt Toolkit]()
+  - [Rich]()
+  - [Shell]()
 
 - [Threading](https://github.com/willgrant22/Functional_Python/tree/master/Threading)
 
 - [Twilio](https://github.com/willgrant22/Functional_Python/tree/master/Twilio)
 
 - [Vars](https://github.com/willgrant22/Functional_Python/tree/master/Vars)
+  - [Formatting]()
+  - [Lists, Dictionaries and Arrays]()
+  - [Matplotlib]()
+  - [Numpy]()
+  - [Pandas]()
+  - [Random]()
+  - [Strings]()
+  - [Walrus]()
 
 - [Web](https://github.com/willgrant22/Functional_Python/tree/master/Web)
+  - [AWS](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/AWS)
+  - [Flask](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/Flask)
+  - [Selenium](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/Selenium)
+  - [Vultr](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/Vultr)
+  - [Wikipedia](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Web/Wikipedia)
   
   </details>
