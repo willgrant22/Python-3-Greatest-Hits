@@ -24,6 +24,7 @@
 <details>
 <summary>Table of Contents</summary>
 
+----
 
 # <img title="" src=".img/python-5.png" alt="" width="50" data-align="inline"> <sup>Table of Contents</sup>
 
