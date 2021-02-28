@@ -7,7 +7,6 @@
 from pyzbar import pyzbar
 import cv2
 
-# Initialize photo
 img_path = 'qr.png'
 
 # Read image

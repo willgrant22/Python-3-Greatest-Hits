@@ -6,9 +6,12 @@
 
 from Arduino import Arduino
 import time
+
 #tty.usbmodem14401 uno
 #tty.wchusbserial1440 nano
-board = Arduino(115200, port='/dev/tty.usbmodem14401') # plugged in via USB, serial com at rate 115200
+board = Arduino(115200, port='/dev/tty.usbmodem14401')
+
+# plugged in via USB, serial com at rate 115200
 board.pinMode(13, "OUTPUT")
 
 while True:

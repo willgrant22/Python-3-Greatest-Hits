@@ -7,7 +7,6 @@
 import qrcode
 import qrcode.image.svg
 
-# define a method to choose which factory metho to use
 # possible values 'basic' 'fragment' 'path'
 method = "basic"
 

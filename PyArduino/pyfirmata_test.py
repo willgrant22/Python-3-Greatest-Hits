@@ -6,7 +6,7 @@
 
 import pyfirmata
 import time
- 
+# or whatever your board is
 board = pyfirmata.Arduino('/dev/tty.usbmodem14401')
  
 while True:

@@ -11,7 +11,8 @@ board = pyfirmata.Arduino('/dev/tty.wchusbserial1440')
  
 it = pyfirmata.util.Iterator(board)
 it.start()
- 
+
+# What pins will be used
 digital_input = board.get_pin('d:10:i')
 led = board.get_pin('d:13:o')
  

@@ -8,7 +8,8 @@ import pyfirmata
 import time
  
 board = pyfirmata.Arduino('/dev/tty.usbmodem14401')
- 
+
+# Using sleep to blink 
 while True:
     board.digital[13].write(1)
     time.sleep(1)

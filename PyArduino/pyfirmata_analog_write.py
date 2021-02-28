@@ -11,7 +11,8 @@ board = pyfirmata.Arduino('/dev/tty.usbmodem14401')
  
 it = pyfirmata.util.Iterator(board)
 it.start()
- 
+
+# Define analog pin 
 analog_input = board.get_pin('a:0:i')
 while True:
     analog_value = analog_input.read()
