@@ -6,6 +6,7 @@
 
 import sqlite3
 
+# Example of what I did
 class Database:
 	db = 'password.db'
 	positiveConO = 'Database has been opened successfully!'
