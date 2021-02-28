@@ -6,6 +6,7 @@
 
 from twilio.rest import Client 
 
+# Make sure to add api key
 account_sid = ''
 auth_token = ''
 
