@@ -4,12 +4,12 @@
 # Author :  Will Grant
 # =============================================================================
 
-s1 = 'a'
-s2 = 'ab'
-s3 = 'abc'
-s4 = 'abcd'
+a = 'a'
+b = 'ab'
+c = 'abc'
+d = 'abcd'
 
-print(f'{s1:>10}')
-print(f'{s2:>10}')
-print(f'{s3:>10}')
-print(f'{s4:>10}')
+print(f'{a:>10}')
+print(f'{b:>10}')
+print(f'{c:>10}')
+print(f'{d:>10}')

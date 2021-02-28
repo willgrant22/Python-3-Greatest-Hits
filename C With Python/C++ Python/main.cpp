@@ -12,7 +12,7 @@ main(int argc, char** argv)
     // your module from the path where Python's system modules/packages are
     // found.
     PyObject* sysPath = PySys_GetObject("path");
-    PyList_Append(sysPath, PyString_FromString("/Users/will/Desktop/cp/call_py_cpp"));
+    PyList_Append(sysPath, PyString_FromString("/Users/will/Library/Mobile Documents/com~apple~CloudDocs/MEGAsync/Software Development/GitHub/Python-3-Greatest-Hits/C With Python/C++ Python"));
 
     // Load the module
     PyObject *pName = PyString_FromString("my_mod");

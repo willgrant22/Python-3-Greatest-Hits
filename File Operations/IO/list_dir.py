@@ -7,8 +7,11 @@
 import os
 
 # List all subdirectories using scandir()
-basepath = '/Users/will/Desktop/'
+basepath = '/Users/will/'
+array = []
 with os.scandir(basepath) as entries:
     for entry in entries:
         if entry.is_dir():
-            print(entry.name)
+        	array.append(entry.name)
+            
+print(array)

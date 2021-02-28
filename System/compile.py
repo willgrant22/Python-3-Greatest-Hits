@@ -5,4 +5,4 @@
 # =============================================================================
 
 import py_compile
-py_compile.compile("test.py")
+py_compile.compile("sys.c")
