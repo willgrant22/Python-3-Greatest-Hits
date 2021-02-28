@@ -34,14 +34,11 @@
   - [C++ Python]()
   - [Cython]()
   - [Shared Lib]()
-  
 - [Data Structures](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Data%20Structures)
   - [Class Decorators]()
-
 - [Database](https://github.com/willgrant22/Functional_Python/tree/master/Database)
   - [MySQL]()
   - [SQLite]()
-  
 - [Emoji](https://github.com/willgrant22/Python-3-Greatest-Hits/tree/master/Emoji)
 
 - [Encryption](https://github.com/willgrant22/Functional_Python/tree/master/Encryption)
