@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Sort data by name
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

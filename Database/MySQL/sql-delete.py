@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Delete specific
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

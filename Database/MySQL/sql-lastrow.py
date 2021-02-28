@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Get last row
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

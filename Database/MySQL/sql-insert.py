@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Insert data
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Get from specific column
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

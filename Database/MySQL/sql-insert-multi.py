@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Insert multi
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

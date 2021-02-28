@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Show databases
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(

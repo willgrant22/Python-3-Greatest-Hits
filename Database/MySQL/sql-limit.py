@@ -4,6 +4,7 @@
 # Created By  : Will Grant
 # Description : Limit result
 # =============================================================================
+
 import mysql.connector
 
 mydb = mysql.connector.connect(
