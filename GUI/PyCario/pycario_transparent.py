@@ -7,7 +7,6 @@
 from gi.repository import Gtk
 import cairo
 
-
 class Example(Gtk.Window):
 
     def __init__(self):

@@ -17,15 +17,12 @@ class MouseButtons:
     
     LEFT_BUTTON = 1
     RIGHT_BUTTON = 3
-    
-    
+     
 class Example(Gtk.Window):
-
     def __init__(self):
         super(Example, self).__init__()
         
-        self.init_ui()
-        
+        self.init_ui()      
         
     def init_ui(self):    
 

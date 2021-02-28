@@ -13,15 +13,12 @@ from gi.repository import Gtk, Gdk
 import cairo
 import math
 
-
 class Example(Gtk.Window):
-
     def __init__(self):
         super(Example, self).__init__()
         
         self.init_ui()
-        
-        
+                
     def init_ui(self):    
 
         darea = Gtk.DrawingArea()
