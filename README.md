@@ -9,7 +9,7 @@
 ----
 
 
-![GitHub release (latest by date)]()
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/willgrant22/Python-3-Greatest-Hits?color=683BB9)
 ![GitHub top language](https://img.shields.io/github/languages/top/willgrant22/Python-3-Greatest-Hits)
 ![GitHub last commit](https://img.shields.io/github/last-commit/willgrant22/Python-3-Greatest-Hits)
 ![Github All Releases](https://img.shields.io/github/downloads/willgrant22/Python-3-Greatest-Hits/total.svg)
