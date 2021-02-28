@@ -1,31 +1,35 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # =============================================================================
-# Author :  Will Grant
+# Author: Will Grant
 # =============================================================================
-
 import sqlite3
 
-# Code to get column names
-db = 'test.db'
-table_name = 'TEST'
-conn = sqlite3.connect(f'{db}')
-cursor = conn.cursor()
+# Made function
+def col_names():
+	db = 'test.db'
+	table_name = 'TEST'
+	conn = sqlite3.connect(f'{db}')
+	cursor = conn.cursor()
 
-act = "SELECT name FROM PRAGMA_TABLE_INFO('TEST')"
-cursor.execute(act)
+	act = "SELECT name FROM PRAGMA_TABLE_INFO('TEST')"
+	cursor.execute(act)
 
-rows = cursor.fetchall()
-oneRow = cursor.fetchone()
-print(oneRow[0])
-for row in rows:
-	print(row)
+	rows = cursor.fetchall()
+	oneRow = []
+	for row in rows:
+		oneRow.append(row)
+		print(row)
 
-length = len(rows)
-print('\n')	
-print(f'The list length is: {length}')
-y = length + 1
-print(y)
+	length = len(rows)
+	y = length + 1
+	print(y)
 
-conn.commit()
-conn.close()
+	print(oneRow[0])
+	print(''.join(oneRow[0]))
+
+	conn.commit()
+	conn.close()
+
+
+col_names()
