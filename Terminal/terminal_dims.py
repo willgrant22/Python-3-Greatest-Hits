@@ -11,5 +11,4 @@ cols, rows = os.get_terminal_size()
 #terminal_columns = size[0]
 #terminal_rows = size[1]
 
-
 print(cols)
