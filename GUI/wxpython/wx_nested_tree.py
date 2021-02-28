@@ -9,9 +9,7 @@ import keyword
 import string
 
 class TreeFrame(wx.Frame):
-
     def __init__(self):
-
         wx.Frame.__init__(self, None, title='wx.TreeCtrl')
 
         tree_ctrl = wx.TreeCtrl(self, -1, style=wx.TR_DEFAULT_STYLE | \

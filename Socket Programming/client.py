@@ -7,9 +7,7 @@
 import socket
 
 s = socket.socket()
-
 server = input("Enter Server IP: ")
-
 s.connect((server, 12345))
 
 data = s.recv(1024).decode("utf-8")

@@ -13,7 +13,6 @@ class Example(wx.Frame):
         self.InitUI()
 
     def InitUI(self):
-
         pnl = wx.Panel(self)
         pnl.Bind(wx.EVT_KEY_DOWN, self.OnKeyDown)
         pnl.SetFocus()
@@ -23,7 +22,6 @@ class Example(wx.Frame):
         self.Centre()
 
     def OnKeyDown(self, e):
-
         key = e.GetKeyCode()
 
         if key == wx.WXK_ESCAPE:

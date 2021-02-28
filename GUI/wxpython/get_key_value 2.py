@@ -8,7 +8,6 @@ import cv2
 
 # Load image
 img = cv2.imread('test.png')
-
 while(1):
     cv2.imshow('img',img)
     k = cv2.waitKey(1)

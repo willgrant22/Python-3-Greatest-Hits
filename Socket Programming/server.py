@@ -15,8 +15,8 @@ s.bind((ip_address, 12345))
 s.listen(3)
 
 print("Server ip address:", ip_address)
-while True:
 
+while True:
     print('waiting for a connection')
     connection, client_address = s.accept()
     try:

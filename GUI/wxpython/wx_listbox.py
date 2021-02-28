@@ -7,7 +7,6 @@
 import wx
 
 class Example(wx.Frame):
-
     def __init__(self, *args, **kw):
         super(Example, self).__init__(*args, **kw)
 

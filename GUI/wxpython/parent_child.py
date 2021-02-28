@@ -7,11 +7,7 @@
 import wx
 
 
-class OtherFrame(wx.Frame):
-    """
-    Class used for creating frames other than the main one
-    """
-    
+class OtherFrame(wx.Frame):    
     def __init__(self, title, parent=None):
         wx.Frame.__init__(self, parent=parent, title=title)
         self.Show()

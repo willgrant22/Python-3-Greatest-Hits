@@ -11,8 +11,7 @@ players = [('Tendulkar', '15000', '100'), ('Dravid', '14000', '1'),
    ('Kumble', '1000', '700'), ('KapilDev', '5000', '400'), 
    ('Ganguly', '8000', '50')] 
     
-class Mywin(wx.Frame): 
-            
+class Mywin(wx.Frame):  
    def __init__(self, parent, title): 
       super(Mywin, self).__init__(parent, title = title) 
         

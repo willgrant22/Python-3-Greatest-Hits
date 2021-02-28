@@ -12,7 +12,6 @@ packages = [('abiword', '5.8M', 'base'), ('adie', '145k', 'base'),
     ('asc', '5.8M', 'base'), ('ascii', '74k', 'base'), ('ash', '74k', 'base')]
 
 class CheckListCtrl(wx.ListCtrl, CheckListCtrlMixin, ListCtrlAutoWidthMixin):
-
     def __init__(self, parent):
         wx.ListCtrl.__init__(self, parent, wx.ID_ANY, style=wx.LC_REPORT |
                 wx.SUNKEN_BORDER)
@@ -21,7 +20,6 @@ class CheckListCtrl(wx.ListCtrl, CheckListCtrlMixin, ListCtrlAutoWidthMixin):
 
 
 class Example(wx.Frame):
-
     def __init__(self, *args, **kw):
         super(Example, self).__init__(*args, **kw)
 

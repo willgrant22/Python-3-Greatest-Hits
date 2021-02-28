@@ -9,9 +9,7 @@ import wx
 # Import the widgets inspection tool
 import wx.lib.inspection
 
-
 class SizersSample(wx.Frame):
-
     def __init__(self, parent):
 
         wx.Frame.__init__(self, parent, title='Sizers sample')

@@ -6,6 +6,7 @@
 
 import socket
 
+# Choose your own host
 HOST = '0.0.0.0'
 PORT = 65432
 

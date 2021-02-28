@@ -22,7 +22,6 @@ class Mywin(wx.Frame):
 
       splitter.SetSashGravity(0.2)
 
-
       languages = ['C', 'C++', 'Java', 'Python', 'Perl',
          'JavaScript', 'PHP' ,'VB.NET' ,'C#'] 
       lst = wx.ListBox(panel2, size = (100,400), choices = languages, style = wx.LB_SINGLE) 

@@ -28,5 +28,6 @@ class MDIFrame(wx.MDIParentFrame):
         
 app = wx.App() 
 frame = MDIFrame() 
-frame.Show() 
+frame.Show()
+
 app.MainLoop()

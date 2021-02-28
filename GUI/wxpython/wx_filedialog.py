@@ -10,7 +10,6 @@ def onButton(event):
     print ("Button pressed.")
 
 app = wx.App()
-
 frame = wx.Frame(None, -1, 'win.py')
 frame.SetSize(0,0,200,50)
 

@@ -9,7 +9,6 @@ import sys
 import traceback
 from threading import Thread
 
-
 def main():
     start_server()
 

@@ -11,7 +11,6 @@ class ExamplePanel(wx.Panel):
         wx.Panel.__init__(self, parent)
         self.quote = wx.StaticText(self, label="Your quote :", pos=(20, 30))
 
-        # A multiline TextCtrl - This is here to show how the events work in this program, don't pay too much attention to it
         self.logger = wx.TextCtrl(self, pos=(300,20), size=(200,300), style=wx.TE_MULTILINE | wx.TE_READONLY)
 
         # A button

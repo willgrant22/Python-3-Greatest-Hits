@@ -55,7 +55,6 @@ def main():
             test2()
             pass 
               
-
         message = input(" -> ")
 
     soc.send(b'--quit--')
