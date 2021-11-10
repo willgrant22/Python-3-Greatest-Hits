@@ -1,0 +1,9 @@
+{
+    "languages": "English",
+    "name": "Bob",
+    "numbers": [
+        2,
+        1.6,
+        null
+    ]
+}

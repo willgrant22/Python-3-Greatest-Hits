@@ -1,0 +1,3 @@
+$ sqlite3 data.db 
+sqlite> .read cities.sql 
+sqlite> SELECT * FROM Cities;

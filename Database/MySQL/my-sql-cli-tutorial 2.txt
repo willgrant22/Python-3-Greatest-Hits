@@ -1,0 +1,1 @@
+mysql -h #ip address -P #port -u #user -p 
